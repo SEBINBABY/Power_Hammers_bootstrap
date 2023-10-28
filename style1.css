@@ -1,0 +1,264 @@
+.body_{
+    background: url("images/BG_PROJECTS.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width:100%;
+    height:100%;
+    background-size: cover;
+}
+.P_3{
+    color:black;
+}
+.P_3{
+    width:100%;
+    height:200px;
+    /* background-image:linear-gradient(rgb(244, 196, 129),rgb(248, 242, 234)); */
+    background-attachment:inherit;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    text-align: center;
+}
+.item_1:hover{
+    background-color: rgb(209, 123, 3);
+    opacity: 0.55;
+    position:relative;
+    transition: 0.8s;
+    border-radius: 10px;
+}
+.item_2:hover{
+    background-color: black;
+    opacity: 0.55;
+    position:relative;
+    transition: 0.8s;
+    border-radius: 10px;
+}
+.Para_{
+    width:200px;
+    height:150px;
+    margin:-132px 0 0 350px;
+}
+.logo_{
+    width:100px;
+    height:100px;
+    margin: 0 10px 0 10px;
+}
+.heading{
+    width:800px;
+    height:400px;
+    text-align: left;
+} 
+.Para_style{
+    color:white;
+    font-weight: bold;
+    font-size: 100px;
+    margin-top: -700px;
+}
+.Para_S{
+
+    color:white;
+    font-weight: bold;
+    font-size: 45px;
+}
+.h3_{
+    margin:100px 0 0 100px;
+}
+.h1_{
+    margin:0 0 -115px 100px;
+}
+.h3_1{
+    margin:46px 0 0 100px;
+    font-weight: bold;
+    color:black;
+}
+.h1_2{
+    margin:0 0 -115px 100px;
+    color: rgb(245, 216, 48);
+    font-weight: bold;
+    font-size: 50px;
+}
+.h1_1{
+    margin:180px 0 0 100px;
+}
+.u_{
+    color:rgb(209, 123, 3);
+}
+.h1_11{
+    margin:-376px 0 0 800px;
+}
+.h1_12{
+    margin:334px 0 0 100px;
+}
+.images_{
+    width:600px;
+    height:500px;
+    margin:-310px 0 0 800px;
+}
+.images_1{
+    height: 60px;
+    width: 100px;
+    margin:20px 0 0 80px;
+}
+.footer-class{
+    float: left;
+    margin-top:30px;
+}
+.images_2{
+    width:150px;
+    height:150px;
+}
+.a_{
+    color:rgb(154, 93, 9);
+}
+.a_:hover{
+    background-color: rgb(66, 64, 62);
+    opacity: 0.55;
+    position:relative;
+    transition: 0.8s;
+    border-radius: 8px;
+    color:white;
+    cursor: pointer;
+}
+.Para_S1{
+    margin: -150px 0 0 958px;
+}
+.h2_1{
+    font-weight: bold;
+}
+.open-button {
+    background-color: #555;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.8;
+    position: fixed;
+    bottom: 23px;
+    right: 28px;
+    width: 100px;
+  }
+  
+  /* The popup chat - hidden by default */
+  .chat-popup {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    right: 15px;
+    border: 3px solid #f1f1f1;
+    z-index: 9;
+  }
+  
+  /* Add styles to the form container */
+  .form-container {
+    max-width: 300px;
+    padding: 10px;
+    background-color: white;
+  }
+  
+  /* Full-width textarea */
+  .form-container textarea {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+    resize: none;
+    min-height: 200px;
+  }
+  
+  /* When the textarea gets focus, do something */
+  .form-container textarea:focus {
+    background-color: #ddd;
+    outline: none;
+  }
+  
+  /* Set a style for the submit/send button */
+  .form-container .btn {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 20px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom:10px;
+    opacity: 0.8;
+  }
+  
+  /* Add a red background color to the cancel button */
+  .form-container .cancel {
+    background-color: red;
+  }
+  
+  /* Add some hover effects to buttons */
+  .form-container .btn:hover, .open-button:hover {
+    opacity: 1;
+  }
+  .button_div{
+    width:60px;
+    height:50px;
+    margin: -20px 0 0 1245px;
+  }
+ #myBtn {
+  text-decoration: underline;
+  border: none;
+  font-size: 16px;
+ }
+  #myBtn:hover {
+    background-color: #555;
+  }
+  .About_Us{
+    width:100%;
+    height:650px;
+    background-image: url('images/mission_.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 1px;
+    margin-top: 100px;
+  }
+  .paragraph{
+    margin:123px 0 0 107px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+  }
+  .bg_image{
+    width:100%;
+    height:150px;
+    padding:1px;
+  }
+  .block_1{
+    width:350px;
+    height:80px;
+    color:black;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin:20px 0 0 107px;
+    float:left;
+  }
+  .block_2{
+    margin:21px 0 0 -36px;
+  }
+  .block_3{
+    margin:-83px 0 0 694px;
+  }
+  .block_4{
+    margin:-83px 0 0 1003px;
+  }
+  .card_class{
+    width:100%;
+    height:100px;
+
+  }
+  .card_1{
+    margin:117px 0 0 12px;
+    float:left;
+  }
+  .Image_1{
+    float:left;
+    margin:158px 10px 0 0;
+  }
+  .image_projects{
+    width:413px;
+    height:351px;
+  }
+
